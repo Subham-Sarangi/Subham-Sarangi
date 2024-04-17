@@ -1,6 +1,7 @@
+![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Hi 👋, I'm Subham Sarangi</h1>
 <h3 align="center">A passionate data enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
 - 🌱 I’m currently learning **Python, SQL**
