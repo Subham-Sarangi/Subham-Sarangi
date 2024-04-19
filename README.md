@@ -3,16 +3,31 @@
 <h3 align="center">A passionate data enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
+**👋 Welcome to My GitHub Page!**
 
-- 🌱 I’m currently learning **Python, SQL**
+**🎓 Education:**
+- Master of Business Administration (Analytics) from Indian Institute of Management, Kashipur 📚
+- Bachelor of Technology in Electrical and Electronics Engineering from Veer Surendra Sai University of Technology, Burla 🎓
 
-- 👯 I’m looking to collaborate on **Data Analytics projects**
+**💼 Work Experience:**
+- Business Scientist at Decimal Point Analytics, Nashik 📈
+- Data Analyst at Cognizant Technology Solutions 📊
 
-- 🤝 I’m looking for help with **Data Extraction**
+**🔧 Technical Skills:**
+- Proficient in Microsoft Excel, Python, Google Sheets, Power BI, Linux, MySQL, MATLAB 🛠️
+- Skilled in data analysis, data cleaning, data processing, data visualization, forecasting, and Tableau 📊
 
-- 💬 Ask me about **Excel**
+**🏆 Achievements:**
+- Batch topper at IIM Kashipur with a CGPA of 9.25 🏅
+- First prize winner in Open Outcry trading simulation event organized by the finance club 🥇
 
-- 📫 How to reach me **subham123sarangi123@gmail.com**
+**🌟 Interests:**
+- Reading a wide range of novels, especially mythological and historical fiction, autobiographies, and self-help books 📚
+- Solving Rubik's cube (unofficial university record holder!) 🧩
+
+Feel free to explore my repositories and projects. Connect with me on LinkedIn [here](linkedin.com/in/subham-sarangi-56242a1a2/)!
+
+Happy coding! 😊🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
