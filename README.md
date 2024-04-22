@@ -41,3 +41,5 @@ Happy coding! 😊🚀
 [![GitHub Streak](https://streak-stats.demolab.com/?user=subham-sarangi)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subham-sarangi&langs_count=8)
+
+![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=subham-sarangi\&rank_icon=github)
